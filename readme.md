@@ -1,4 +1,4 @@
-###技术栈
+### 技术栈
 react   
 
 react-router 4.1   
@@ -15,8 +15,8 @@ react-router-config
 
 2.yarn   start  
 
-```bash
-###目录结构      
+###目录结构  
+```bash   
 ├─cfg    
 ├─src
 │  ├─actions
