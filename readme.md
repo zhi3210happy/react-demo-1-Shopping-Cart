@@ -1,16 +1,23 @@
 ###技术栈
-react
-react-router 4.1
-redux
-react-redux
-react-router-config
+react   
+
+react-router 4.1   
+
+redux  
+
+react-redux  
+
+react-router-config  
+
 
 ### start
-1.yarn   install 
-2.yarn   start
+1.yarn   install   
 
-###目录结构
-├─cfg
+2.yarn   start  
+
+```bash
+###目录结构      
+├─cfg    
 ├─src
 │  ├─actions
 │  ├─api
@@ -30,3 +37,4 @@ react-router-config
     ├─helpers
     ├─sources
     └─stores
+```
