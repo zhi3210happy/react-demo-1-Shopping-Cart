@@ -15,7 +15,7 @@ react-router-config
 
 2.yarn   start  
 
-###目录结构  
+### 目录结构  
 ```bash   
 ├─cfg    
 ├─src
